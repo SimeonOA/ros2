@@ -331,6 +331,10 @@ repositories:
     type: git
     url: https://github.com/ros2/ros_testing.git
     version: rolling
+  ros2/yaml_cpp_vendor:
+    type: git
+    url: https://github.com/ros2/yaml_cpp_vendor.git
+    version: rolling
   ros2/rosbag2:
     type: git
     url: https://github.com/ros2/rosbag2.git
@@ -406,8 +410,4 @@ repositories:
   ros2/urdf:
     type: git
     url: https://github.com/ros2/urdf.git
-    version: rolling
-  ros2/yaml_cpp_vendor:
-    type: git
-    url: https://github.com/ros2/yaml_cpp_vendor.git
     version: rolling
